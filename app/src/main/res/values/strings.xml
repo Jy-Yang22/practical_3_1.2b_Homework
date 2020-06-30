@@ -4,5 +4,7 @@
     <string name="count_text">COUNT</string>
     <string name="zero">0</string>
     <string name="toast_message">Teh Jin Yang 1902956</string>
+    <string name="Button_zero">ZERO</string>
+    <string name="button_zero">zero</string>
 
 </resources>
